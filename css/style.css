@@ -311,8 +311,8 @@ body.active .mscroll {
 /*Cerchio colorato che gira*/
 .loader
 {
-  margin-top: 20%;
-  margin-bottom: 20%;
+  margin-top: 10%;
+  margin-bottom: 10%;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -321,7 +321,6 @@ body.active .mscroll {
   border-radius: 50%;
   overflow: hidden;
   transform: rotate(175deg);
-  text-emphasis-color: #fff;
 }
 .loader span
 {
